@@ -6,4 +6,4 @@ router = routers.DefaultRouter()
 router.register(r"proyecto", Proyectoviewset)
 router.register(r"categoria", Categoriaviewset)
 router.register(r"comentario", Comentarioviewset)
-urlpatterns = [path("api/", include(router.urls))]
+urlpatterns = [path("", include(router.urls))]
