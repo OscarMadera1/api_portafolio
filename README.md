@@ -38,7 +38,7 @@ GET /proyectos/
 
 Respuesta:
 
-'''json
+```json
    {
 "id": 1,
 "titulo": "Tienes un mensaje",
@@ -55,13 +55,13 @@ Respuesta:
 "fecha_creacion": "2024-04-09T23:54:48.199478Z",
 "categoria": 2
 }
-'''
+```
 Obtener detalles de un proyecto específico
 
 GET /proyectos/1/
 Respuesta:
 
-'''json
+```json
    {
 "id": 1,
 "titulo": "Tienes un mensaje",
@@ -70,9 +70,9 @@ Respuesta:
 "fecha_creacion": "2024-04-09T23:51:34.673341Z",
 "categoria": 1
 }
-'''
+```
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor abre un issue o envía un pull request.
 
 Contacto
-Para cualquier pregunta o comentario, puedes contactarme en omaderanegret@email.com.
+Para cualquier pregunta o comentario, puedes contactarme en omaderanegret@gmail.com.
