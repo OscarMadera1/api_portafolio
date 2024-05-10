@@ -59,6 +59,7 @@ Respuesta:
 Obtener detalles de un proyecto específico
 
 GET /proyectos/1/
+
 Respuesta:
 
 ```json
@@ -74,5 +75,6 @@ Respuesta:
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor abre un issue o envía un pull request.
 
+
 Contacto
-Para cualquier pregunta o comentario, puedes contactarme en omaderanegret@gmail.com.
+Para cualquier pregunta o comentario, puedes contactarme en omaderanegrete@gmail.com
