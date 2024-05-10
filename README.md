@@ -6,7 +6,7 @@ Esta API REST está construida con Django Rest Framework (DRF) y proporciona end
 
 1. Clona este repositorio:
 
-git clone https://github.com/tuusuario/tuproyecto.git
+git clone https://github.com/OscarMadera1/api_portafolio.git
 
 
 2. Instala las dependencias:
